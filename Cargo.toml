@@ -2,7 +2,7 @@
 name = "bevy_actify_derive"
 version = "0.2.0"
 edition = "2024"
-authors = ["iizudev<izudev@yandex.ru>"]
+authors = ["iizudev <izudev@yandex.ru>"]
 license = "MIT OR Apache-2.0"
 description = "bevy_actify's derive macros"
 
