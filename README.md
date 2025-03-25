@@ -14,15 +14,6 @@ can add it to your project:
 bevy_actify_derive = "*" # refer to crates.io for the actual version.
 ```
 
-### Usage
-
-```rust
-use bevy_actify::InputAction;
-
-#[derive(InputAction, PartialEq, Clone)]
-struct Jump;
-```
-
 ## License
 
 This project is dual-licensed under:
