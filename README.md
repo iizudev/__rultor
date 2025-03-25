@@ -23,6 +23,15 @@ use bevy_actify::InputAction;
 struct Jump;
 ```
 
+## License
+
+This project is dual-licensed under:
+
+- [MIT License](LICENSE-MIT)
+- [Apache 2.0 License](LICENSE-APACHE-2.0)
+
+You may choose either license at your option.
+
 ## How to contribute
 
 Fork repository, make changes, send us a pull request. We will review your changes and apply them to the master branch shortly, provided they don't violate our quality standards.
