@@ -11,7 +11,7 @@ can add it to your project:
 
 ```toml
 [dependencies]
-bevy_actify_derive = "*" // refer to crates.io for the actual version.
+bevy_actify_derive = "*" # refer to crates.io for the actual version.
 ```
 
 ### Usage
